@@ -1,2 +1,1 @@
-# gitmarklet
-Easiest tool to create JavaScript bookmarklets from GitHub repos.
+<h1 align="center">gitmarklet.</h1>
